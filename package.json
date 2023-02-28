@@ -1,0 +1,15 @@
+{
+  "name": "mdoc",
+  "version": "1.0.0",
+  "description": "live markdown editor",
+  "main": "main.js",
+  "packageName" : "mdoc",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "SeaWal",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^23.1.1"
+  }
+}
