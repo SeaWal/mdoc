@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+.main-content {
+    display: flex;
+    height: 100%;
+}
+
+.text-editor {
+    flex: 1;
+    padding: 30px;
+    border: 0;
+    resize: none;
+    height: 100%;
+    width: 50%;
+    outline: none;
+}
+
+.markdown-preview {
+    flex: 1;
+    padding: 30px;
+    background: #9b3c3c;
+    resize: none;
+    height: 100%;
+    width: 50%;
+}
